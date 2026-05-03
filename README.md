@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/rahul90rohira">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=QA%20Student%20which%20always%20try%20to%20learn%20%26%20implement%20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=QA%20Student%20who%20always%20try%20to%20learn%20%26%20implement%20" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
